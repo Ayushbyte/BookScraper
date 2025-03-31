@@ -12,4 +12,8 @@ A web scraping application that extracts book information from Notion Press's co
 1. Create a virtual environment:
 ```bash
 python -m venv .venv
+<<<<<<< HEAD
 .\.venv\Scripts\activate
+=======
+.\.venv\Scripts\activate
+>>>>>>> bf9caed (Initial commit: Book scraper project)

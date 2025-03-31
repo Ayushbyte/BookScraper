@@ -1,5 +1,16 @@
+# Python
 __pycache__/
-*.pyc
-.venv/
-book_details.csv
+*.py[cod]
+*$py.class
+.Python
 .env
+.venv/
+venv/
+
+# Project specific
+book_details.csv
+*.log
+
+# IDE
+.vscode/
+.idea/
